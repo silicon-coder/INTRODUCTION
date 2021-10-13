@@ -1,0 +1,36 @@
+//c language
+
+#include 
+ 
+int main(void)
+{
+    puts("Hello, world!");
+}
+
+//c++ program
+
+#include 
+ 
+int main()
+{
+    std::cout << "Hello, world!
+";
+    return 0;
+    
+    //c#
+    
+    using System;
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+    }
+}
+ 
+ 
+ //javascript
+ document.write('Hello, world!');
+ 
+ //python 
+ print "Hello, world!"
