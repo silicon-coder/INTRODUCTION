@@ -2,8 +2,8 @@
 
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
-### 1. Register yourself for Hacktoberfest 2021
-###### Link to register: https://hacktoberfest.digitalocean.com/
+### 1. Register yourself for Hacktoberfest 2022
+###### Link to register: (https://hacktoberfest.com/)
 Click on "Start Hacking" and add your GitHub account.
 
 ![Screenshot-HFST](https://hacktoberfest.digitalocean.com/share-card.png)
@@ -93,7 +93,7 @@ If you have a very short message, you can record that with the -m flag and the m
 
 ###### At this point you can use the git push command to push the changes to the current branch of your forked repository:
 ###### ` Example:`
-##### ` git push --set-upstream origin new-branch `
+###### ` git push --set-upstream origin new-branch `
 
 ### 5. Update Local Repository
 
@@ -105,7 +105,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### ` git remote add upstream https://github.com/acmbvp/Hacktoberfest.git `
+###### ` git remote add upstream https://github.com/acmbvp/Hacktoberfest.git `
 
 
 ![screenshot 74](https://user-images.githubusercontent.com/37223446/47235672-5f0efa00-d3f7-11e8-9e45-1af02d8b969b.png)
