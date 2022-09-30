@@ -1,4 +1,4 @@
-## Instructions:
+# Instructions:
 
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
@@ -125,7 +125,7 @@ Switch to the local master branch of our repository:
 
 Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch:
 
-##### ` git merge upstream/master `
+###### ` git merge upstream/master `
 
 ### 8. Create Pull Request
 
@@ -133,4 +133,4 @@ At this point, you are ready to make a pull request to the original repository.
 
 Navigate to your forked repository, and press the “New pull request” button on your left-hand side of your Repo page.
 
-# Don't stop keep contributing!!!!
+# Keep contributing!!!!
