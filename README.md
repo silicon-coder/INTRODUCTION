@@ -1,14 +1,10 @@
-# Instructions:
+## Instructions:
 
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
 ### 1. Register yourself for Hacktoberfest 2022
 ###### Link to register: (https://hacktoberfest.com/)
 Click on "Start Hacking" and add your GitHub account.
-
-![Screenshot-HFST](https://hacktoberfest.digitalocean.com/share-card.png)
-
-
 
 ### 2. Star and Fork this Repository
 ###### You can star and fork this repository on GitHub by navigating at the top of this repository.
