@@ -14,7 +14,6 @@ struct Node {
 struct LinkedList {
 	Node* head;
 	LinkedList() { head = NULL; }
-
 	void reverse(){
 		Node* current = head;
 		Node *prev = NULL, *next = NULL;
@@ -49,10 +48,9 @@ int main(){
 	ll.push(4);
 	ll.push(15);
 	ll.push(85);
-
+	ll.push(105);
 	cout << "Given linked list\n";
 	ll.print();
-
 	ll.reverse();
 
 	cout << "\nReversed Linked list \n";
