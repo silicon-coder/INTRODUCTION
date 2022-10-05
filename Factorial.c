@@ -1,3 +1,4 @@
+# Factorial Program in C language
 #include<stdio.h>
 int main(){
   int i=1,f=1,num;
