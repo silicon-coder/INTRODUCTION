@@ -1,4 +1,6 @@
-//LordNeo
+#Merge Sort in C++
+
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
@@ -89,15 +91,13 @@ void merge_sort(ll *arr, ll p, ll r)
         merge(arr, p, q, r);
     }
 }
-/*___________________*workplace*_______________________*/
-int main()
-{
+
+int main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     ll test_case = 1;
     // cin >> test_case;
-    while (test_case--)
-    {
+    while (test_case--){
         ll n, i;
         cin >> n;
         ll arr[n];
